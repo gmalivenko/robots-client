@@ -1,0 +1,18 @@
+{
+  "name": "roboclient",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "babylon": "^6.6.5",
+    "babylonjs": "^2.3.0",
+    "jquery": "^2.2.1",
+    "socket.io": "^1.4.5",
+    "webpack": "^1.12.14"
+  }
+}
